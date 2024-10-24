@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Beatriz",
+    "surnames": "Iglesias",
+    "dateBirth": 941301000939,
+    "city": "Not specified",
+    "country": "Not specified",
+    "phoneNumber": 0,
+    "email": "hola@unsitiogenial.es",
+    "studies": [
+      {
+        "school": "Not specified",
+        "title": "Not specified",
+        "startDate": 1603557000939,
+        "endDate": 1698165000939
+      }
+    ],
+    "workHistory": [
+      {
+        "company": "Not specified",
+        "position": "Not specified",
+        "startDate": 1666629000939,
+        "endDate": 1729701000939,
+        "description": ""
+      }
+    ],
+    "softSkills": [
+      "Communication",
+      "Teamwork"
+    ],
+    "hardSkills": [
+      "Not specified"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "level": "Not specified",
+        "certificate": ""
+      }
+    ],
+    "aboutMe": "Beatriz Iglesias\nEXPERIENCIA\nLorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad\nminim veniam quis nostrud\nexercita",
+    "image": null
+  },
+  {
+    "name": "Gerard",
+    "surnames": "Escard",
+    "dateBirth": 941301000978,
+    "city": "Not specified",
+    "country": "Not specified",
+    "phoneNumber": 0,
+    "email": "gerard.escardo@gmail.com",
+    "studies": [
+      {
+        "school": "Not specified",
+        "title": "Not specified",
+        "startDate": 1603557000978,
+        "endDate": 1698165000978
+      }
+    ],
+    "workHistory": [
+      {
+        "company": "Not specified",
+        "position": "Not specified",
+        "startDate": 1666629000978,
+        "endDate": 1729701000978,
+        "description": ""
+      }
+    ],
+    "softSkills": [
+      "Communication",
+      "Teamwork"
+    ],
+    "hardSkills": [
+      "Not specified"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "level": "Not specified",
+        "certificate": ""
+      }
+    ],
+    "aboutMe": "Gerard Escardó\nCabrerizo\nGraduado en Ingeniería de Sistemas Audiovisuales - Universidad\nPolitécnica de Catalunya (UPC), 09/20 - 07/24\nGraduado  en  Ingeniería  de  Sistemas  Audiovisuales,  con\ncono",
+    "image": null
+  }
+]

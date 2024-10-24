@@ -1,0 +1,42 @@
+
+
+Gerard Escardó
+Cabrerizo
+Graduado en Ingeniería de Sistemas Audiovisuales - Universidad
+Politécnica de Catalunya (UPC), 09/20 - 07/24
+Graduado  en  Ingeniería  de  Sistemas  Audiovisuales,  con
+conocimientos   en   tecnologías   de   telecomunicación,
+procesamiento  de  señal,  diseño  de  sistemas,  programación  en
+múltiples lenguages y bases de datos.
+Trabajo de Fin de Grado (TFG): Aplicación Android desarrollada en
+lenguaje Dart en el framework Flutter, conectada a la base de
+datos  Firebase,  que  consiste  en  una  red  social  que,  mediante
+algoritmos  de  camino  más  corto  y  algoritmos  de  confianza,
+encuentra la ruta (de personas o entidades) más corta a seguir
+para  llegar  a  otro  usuario,  mostrando  en  todo  momento  la
+confianza propagada con cada nodo de la ruta.
+Prácticas  universitarias  en  Data  &  Analytics  en  NTT
+DATA
+Documentación y Programación (Python, Pyspark, SQL, AWS S3,
+AWS Emr y AWS Athena) en la parte de Producto de Naturgy.
+Inglés - Intermedio Avanzado (B2)
+Francés - Intermedio (B1)
+Catalán, Español - Idioma Nativo
+IDIOMAS
+CONTACTO
+675 01 81 98
+gerard.escardo@gmail.com
+10/23 - 06/24
+Lenguages de Programación
+Python, Spark, SQL, PyTorch,
+Dart, C++, MATLAB y HTML.
+INFORMÀTICA
+FORMACIÓN
+EXPERIENCIA LABORAL
+Soporte  al  Departamento  de  Calidad  de  ESEIAAT
+(UPC)
+Soporte en la gestión de la información y planificación estratégica
+en el Área de Relaciones Externas y Soporte Institucional (ARESI)
+09/22 - 07/23
+Amazon Web Services
+Microsoft Office
